@@ -1,0 +1,38 @@
+#header {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#wrapper {
+    width: 80%;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#calculate {
+    margin: 0 auto;
+    text-align: center;
+}
+
+span {
+    background-color: #008000;
+    color: #FFF;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    width: 50%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+footer {
+    padding-top: 20px;
+    text-align: center;
+}
